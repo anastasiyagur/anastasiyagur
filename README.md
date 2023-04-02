@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, nice to meet you!😄
+
+I am a third-year Computer Science student @ Dalhousie University. I have a strong passion for data science and software engineering. You can find me on [LinkedIn](https://www.linkedin.com/in/anastasiya-gurevich/)!
+
+- 🔭 I’m currently working on a my personal portfolio website
+- 🌱 When I am not coding, I enjoy spending my time painting landscapes
+- 📫 How to reach me: [email](mailto:anastasiyagur25@gmail.com)
 
 <!--
 **anastasiyagur/anastasiyagur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
